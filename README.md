@@ -1,13 +1,13 @@
 # ProjetClassificationMusique
 
-# Maxime :
+## Maxime :
  - Extraction des playlists
 
-# Jules :
+## Jules :
  - Labeliser toutes les données
 
-# Ewan :
+## Ewan :
  - sqdsd
 
-# Félix : 
+## Félix : 
 - qsdflkj
